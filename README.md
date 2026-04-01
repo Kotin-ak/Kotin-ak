@@ -25,7 +25,14 @@ Building reliable, high-performance desktop applications and automation tools fo
 
 <h2><a href="https://github.com/Kotin-ak/VRC-Releases">VRC (Video Recording Control Hub)</a></h2>
 
-*An advanced desktop application for centralized control and monitoring of vMix and broadcast equipment.*
+<br />
+
+<a href="https://github.com/Kotin-ak/VRC-Releases">
+  <img src="https://raw.githubusercontent.com/Kotin-ak/VRC-Releases/main/Images/VRC.Win11.4K.png" width="800" alt="VRC Hub Interface on Windows 11" style="border-radius: 8px;" />
+</a>
+
+<br />
+<br />
 
 </div>
 
@@ -40,10 +47,13 @@ Building reliable, high-performance desktop applications and automation tools fo
 
 ### 📫 Community & Contact
 
+<a href="https://github.com/Kotin-ak/VRC-Releases/releases">
+  <img src="https://img.shields.io/github/downloads/Kotin-ak/VRC-Releases/total?style=for-the-badge&color=2EA043&logo=github&logoColor=white" alt="Total Downloads" />
+</a>
 <a href="https://github.com/Kotin-ak/VRC-Releases/discussions">
   <img src="https://img.shields.io/badge/GitHub_Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discussions" />
 </a>
-<a href="#">
+<a href="https://youtube.com/@vrc-hub">
   <img src="https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
