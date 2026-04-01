@@ -1,25 +1,50 @@
-# Hi there, I'm Aleksandr Kotin 👋
+<div align="center">
 
-### Software Developer | Broadcast Engineer
+# Alexander Kotin
 
-I specialize in building desktop applications and automation tools for live video production. My focus is on creating reliable, high-performance software that solves real-world broadcast challenges.
+**Software Developer | Broadcast Engineer**
 
----
+Building reliable, high-performance desktop applications and automation tools for live video production.
 
-### 🛠 Tech Stack
-**Languages & Frameworks:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+<br />
 
-**Tools & Domain:** `vMix XML/TCP API` • `Live Streaming Protocols` • `Broadcast Automation`
+### 🛠 Tech Stack & Domain
 
----
+<p>
+  <img src="https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinUI 3" />
+  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
+</p>
+
+`vMix XML/TCP API` 🔹 `Live Streaming Protocols` 🔹 `Broadcast Automation` 🔹 `Testing`
+
+<br />
 
 ### 🚀 Featured Project
 
-**[VRC (Video Recording Control Hub)](https://github.com/Kotin-ak/VRC-Releases)** An advanced desktop application built with WinUI 3 for centralized control and monitoring of vMix and broadcast equipment. 
-* Used in production by broadcast engineering teams worldwide.
-* Features real-time state monitoring and intelligent routing.
+<h2><a href="https://github.com/Kotin-ak/VRC-Releases">VRC (Video Recording Control Hub)</a></h2>
 
----
+*An advanced desktop application for centralized control and monitoring of vMix and broadcast equipment.*
 
+</div>
+
+<br />
+
+🔹 **Production Proven:** Used by broadcast engineering teams on live events across the globe.  
+🔹 **Core Features:** Real-time state monitoring, intelligent routing, and zero-latency feedback.  
+
+<br />
+
+<div align="center">
+
+### 📫 Community & Contact
+
+<a href="https://github.com/Kotin-ak/VRC-Releases/discussions">
+  <img src="https://img.shields.io/badge/GitHub_Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discussions" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+</div>
