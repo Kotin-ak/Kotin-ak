@@ -28,7 +28,7 @@ Building reliable, high-performance desktop applications and automation tools fo
 <br />
 
 <a href="https://github.com/Kotin-ak/VRC-Releases">
-  <img src="https://raw.githubusercontent.com/Kotin-ak/VRC-Releases/main/Images/VRC.Win11.4K.png" width="800" alt="VRC Hub Interface on Windows 11" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/Kotin-ak/VRC-Releases/main/Images/VRC.png" width="800" alt="VRC Hub Interface on Windows 11" style="border-radius: 8px;" />
 </a>
 
 <br />
