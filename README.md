@@ -17,7 +17,7 @@ Building reliable, high-performance desktop applications and automation tools fo
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
 </p>
 
-`vMix XML/TCP API` 🔹 `Live Streaming Protocols` 🔹 `Broadcast Automation` 🔹 `Testing`
+`vMix XML/TCP API` 🔹 `Blackmagic SDK` 🔹 `Broadcast Automation` 🔹 `Testing`
 
 <br />
 
